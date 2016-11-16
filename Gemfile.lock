@@ -76,6 +76,3 @@ DEPENDENCIES
   rspec-core
   rspec-expectations
   rspec-retry
-
-BUNDLED WITH
-   1.13.6
